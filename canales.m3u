@@ -1,6 +1,4 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml"
-
-
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Logo_Azteca_Uno_2023.png"  group-title="RECOMENDADOS", Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 ##EXTVLCOPT:network-caching=1000
@@ -69,8 +67,6 @@ https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/200284
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="ESPNDeportes(Spanish).us" tvg-name="ESPN Deportes HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png"  group-title="RECOMENDADOS", ESPN Deportes
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/6446
-
-
 #EXTINF:-1 tvg-shift="0"  group-title="Mexico",Uno
 http://181.78.105.146:2000/play/a04p/index.m3u8
 #EXTINF:-1 tvg-shift="0"  group-title="Mexico",LAS ESTRELLAS
@@ -201,8 +197,6 @@ http://181.78.105.146:2000/play/a08g/index.m3u8
 http://181.78.105.146:2000/play/a08j/index.m3u8
 #EXTINF:-1 tvg-shift="0"  group-title="Entretenimiento", UNICABLE
 http://181.78.105.146:2000/play/a08f/index.m3u8
-
-
 #EXTINF:-1 group-title="24/7", Run Time Latino
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
 #EXTINF:-1 group-title="24/7", Run Time Films
@@ -307,7 +301,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 group-title="Musica",Vevo Hip-Hop
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
 #EXTINF:-1 tvg-id="" tvg-name="Foro TV" tvg-logo="" group-title="Mexico",N+ Foro (US Feed)
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
 #EXTINF:-1 tvg-id="" tvg-name="Canal 6 CDMX" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png" group-title="Mexico",Canal 6 CDMX
@@ -416,8 +409,6 @@ http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
 #EXTINF:-1 tvg-id="Megaoticias.mx" tvg-logo="" group-title="Noticias", Meganoticias MX
 https://pctv-meganoticias-1-mx.tcl.wurl.tv/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/655f7192ce580c733dda2fd1fc4f202b.webp" group-title="Musica", Retro Plus TV
 https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/671e88dc2d4bc0b001691b0692016976cf4e9d6de3e9d9652edc131f4fcf14a4.png" group-title="Entretenimiento", Ruidos TV
@@ -448,16 +439,12 @@ https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/webtl-tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Musica", Turbo Mix TV
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
-
-
 #EXTINF:-1 group-title="Mexico",Foro
 https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
 #EXTINF:-1 group-title="Mexico", CANAL 4 MONTERREY
 https://ythls-v3.onrender.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg.m3u8
 #EXTINF:-1 group-title="Mexico", CANAL 4 GUADALAJARA
 https://ythls-v3.onrender.com/channel/UCRujF_YxVVFmTRWURQH-Cww.m3u8
-
-
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Mexico",Azteca 7
@@ -1378,8 +1365,6 @@ http://bgtv.xyz/play/play-127.php?tlat=345&token=dfghdfghfghdfghdfg
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Deportes",Tigo sports
 http://bgtv.xyz/play/play-127.php?tlat=346&token=dfghdfghfghdfghdfg
-
-
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png"  group-title="CANALES VARIADOS", A&E
 http://bgtv.xyz/play/play-127.php?ul=474&token=dfghdfghfghdfghdfg
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/aplus.png"  group-title="CANALES VARIADOS", A+
@@ -2508,8 +2493,6 @@ http://bgtv.xyz/play/play-127.php?ul=276&token=dfghdfghfghdfghdfg
 http://bgtv.xyz/play/play-127.php?ul=1567&token=dfghdfghfghdfghdfg
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/yugioh.png"  group-title="CANALES VARIADOS", Yu-Gi-Oh! ²⁴⁺⁷
 http://bgtv.xyz/play/play-127.php?ul=664&token=dfghdfghfghdfghdfg
-
-
 #EXTINF:-1 group-title="Deportes" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", Bein Sports N
 https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/866.m3u8
 #EXTINF:-1 group-title="Deportes" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", CDF Premium (Tnt Sport2 ᵸᴰ)
@@ -3292,8 +3275,6 @@ https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/1100.m3u8
 https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/1103.m3u8
 #EXTINF:-1 group-title="24/7" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", 247 XMEN ANIME
 https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/384.m3u8
-
-
 #EXTINF:-1 tvg-id="CanalESNE.mx" tvg-name="El Sembrador Nueva Evangelización" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425271-8c.png" group-title="Religion",El Sembrador Nueva Evangelización
 https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/defEvent_1_720/hdntl=exp=1661186586~acl=%2f*~data=hdntl~hmac=e878cc95f10a199a85e244e48d4ff1ee3ad7cf0b4fc97a0e48f2764db37322ea/chunklist.m3u8
 #EXTINF:-1 tvg-id="Mariavision.mx" tvg-name="María Visión" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416625-8c.png" group-title="Religion",María Visión
