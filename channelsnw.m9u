@@ -1,6 +1,5 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
-
 #EXTINF:-1 xui-id="258673" tvg-id="Canal.ADN.40.mx" tvg-name="LOC MEX || ADN 40" tvg-logo="http://alfatv.lat:2082/images/ZO-Uc_VBmKAHM9HxC97V8KHLrQLLEqToWJVmgz5eeLhPLtEkm7gyVVBWyvj_oObLod-Dn73_CTTNL-xZkzAX_5fPJfR5DdpujAgjebqdZDw.png" group-title="TV || LOCALES DE MEXICO",LOC MEX || ADN 40
 http://alfatv.lat:2082/play/prcuu11x6ln4NusMLyT8mJB6wUnhs9JCbz-siVgrfqlSoG19S7-MvipUfGV9Lx5u/ts
 #EXTINF:-1 xui-id="239522" tvg-id="Canal.HBO.(México).mx" tvg-name="CINE ||  HBO" tvg-logo="http://alfatv.lat:2082/images/ZO-Uc_VBmKAHM9HxC97V8LEUdTlZ6d5zQQ5JC_35cJPAJdo_EyI0d_O0uYxOuhkgpN-t7QwgZ--FWclgMRK9w8dN5pwkXnMdPkx7ambLuO0.png" group-title="TV || CINE MX",CINE ||  HBO
